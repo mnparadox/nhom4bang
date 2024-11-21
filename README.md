@@ -1,6 +1,6 @@
 </html>
 <p> Bang diem cua nhom 4
-<table border="1">
+<table border="0.5">
 <tr>
 <th style="border:1px solid green" rowspan="2">Họ và tên</th> <th style="border:1px solid green" colspan="3">Diểm thi</th> </tr> <tr> <td style="border:1px solid red">Toán</td>
 <td style="border:1px solid red">vật lí</td> <td style="border:1px solid red">Hóa học</td> </tr>
